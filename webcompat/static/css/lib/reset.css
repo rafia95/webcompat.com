@@ -428,6 +428,11 @@ li {
   margin: 0;
   padding: 0;
 }
+.issue-comment li,
+.issue-comment ul {
+	list-style:circle;
+	padding-left:10px;
+}
 
 /* Scripting
    ========================================================================== */
